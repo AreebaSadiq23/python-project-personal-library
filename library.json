@@ -1,0 +1,30 @@
+[
+    {
+        "title": "",
+        "author": "",
+        "year": 0,
+        "genre": "Fiction",
+        "read": false
+    },
+    {
+        "title": "",
+        "author": "",
+        "year": 0,
+        "genre": "Fiction",
+        "read": false
+    },
+    {
+        "title": "",
+        "author": "",
+        "year": 0,
+        "genre": "Mystery",
+        "read": false
+    },
+    {
+        "title": "Python",
+        "author": "Guido van Rossum",
+        "year": 1991,
+        "genre": "Fiction",
+        "read": true
+    }
+]

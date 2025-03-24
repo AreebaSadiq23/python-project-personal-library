@@ -1,6 +1,9 @@
 import streamlit as st
 import json
 
+st.set_page_config(page_title="Personal library Manager", page_icon="📚", layout="centered")
+
+
 # File to store library data
 LIBRARY_FILE = "library.json"
 
